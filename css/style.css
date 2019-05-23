@@ -1,0 +1,24 @@
+header .navbar {
+    background-color: whitesmoke;
+    box-shadow: 0px 3px 10px rgba(0,0,0,0.3);
+}
+
+.navbar ul li a {
+    color: #555;
+    text-transform: uppercase;
+}
+
+.navbar .navbar-brand {
+    text-transform: uppercase;
+    color: #e88013;
+    font-weight: bold;
+}
+
+.navbar-toggle .icon-bar{
+    background-color: black;
+}
+
+.btn.btn-primary {
+    background-color: #e88013;
+    border-color: #e88013;
+}
