@@ -22,3 +22,10 @@ header .navbar {
     background-color: #e88013;
     border-color: #e88013;
 }
+
+.carousel .item {
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
